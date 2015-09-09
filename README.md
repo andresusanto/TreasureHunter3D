@@ -9,6 +9,7 @@ I used Visual Studio 2010 to make and build this project. I think, this project 
 
 ## Inputs
 This game uses several input files:
+
 1. ai.txt --> For AI Level
 2. level1.txt --> For level 1
 3. level2.txt --> For level 2
@@ -36,3 +37,7 @@ Open chest with tool:
 
 Score board:
 ![Score Board](/../ss/ss/skor.png?raw=true "Score Board")
+
+
+## License
+MIT License
